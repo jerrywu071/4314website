@@ -1,12 +1,6 @@
 # **Group D**
 # Team members:
-- Tarun Bhardwaj <br>
-- Stanley Ihesiulo <br>
-- Connor-Francis McGrath <br>
-- Irsa Nasir <br>
-- Krishna Raju <br>
-- Aish Singh <br>
-- Joseph Spagnuolo <br>
-- Jerry Wu (217545898)
+- Tarun Bhardwaj, Stanley Ihesiulo, Connor-Francis McGrath, Irsa Nasir <br>
+- Krishna Raju, Aish Singh, Joseph Spagnuolo, Jerry Wu (217545898)
 # Current assignments
 
