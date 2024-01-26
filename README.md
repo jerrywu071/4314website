@@ -7,6 +7,6 @@
 - Krishna Raju <br>
 - Aish Singh <br>
 - Joseph Spagnuolo <br>
-- Jerry Wu 
+- Jerry Wu (217545898)
 # Current assignments
 
