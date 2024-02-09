@@ -7,3 +7,5 @@
 
 [Slides](https://docs.google.com/presentation/d/1Rpraoiqaj5pmtbqbve6ow8nsezWJx89fT4k6OwQZZuI/edit?usp=sharing)<br/>
 Report:
+
+[openpilot architecture blog](https://blog.comma.ai/openpilot-in-2021/)
