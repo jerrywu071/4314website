@@ -4,7 +4,7 @@
 <br/><br/>
 
 
-# Current assignments
+# **Current assignments**
 
 *Assignment 1*
 
