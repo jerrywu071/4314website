@@ -1,13 +1,13 @@
-\contentsline {section}{\numberline {1}Abstract}{2}{}%
-\contentsline {section}{\numberline {2}Introduction and Overview}{2}{}%
-\contentsline {subsection}{\numberline {2.1}The big picture}{2}{}%
-\contentsline {subsection}{\numberline {2.2}Components and architecture}{2}{}%
-\contentsline {subsection}{\numberline {2.3}How do these components interact?}{3}{}%
-\contentsline {section}{\numberline {3}Diagrams}{3}{}%
-\contentsline {section}{\numberline {4}External Interfaces}{3}{}%
-\contentsline {section}{\numberline {5}Use Cases}{3}{}%
-\contentsline {section}{\numberline {6}Data Dictionary}{3}{}%
-\contentsline {section}{\numberline {7}Naming Conventions}{3}{}%
-\contentsline {section}{\numberline {8}Conclusion}{3}{}%
-\contentsline {section}{\numberline {9}Lessons learned and Alternatives Presented}{3}{}%
-\contentsline {section}{\numberline {10}References}{3}{}%
+\contentsline {section}{\numberline {1}Abstract}{2}{section.1}%
+\contentsline {section}{\numberline {2}Introduction and Overview}{2}{section.2}%
+\contentsline {subsection}{\numberline {2.1}The big picture}{2}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Components and architecture}{3}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}Architecture in depth}{4}{subsection.2.3}%
+\contentsline {subsection}{\numberline {2.4}How do these components interact?}{6}{subsection.2.4}%
+\contentsline {section}{\numberline {3}Diagrams}{6}{section.3}%
+\contentsline {section}{\numberline {4}External Interfaces}{7}{section.4}%
+\contentsline {section}{\numberline {5}Use Cases}{7}{section.5}%
+\contentsline {section}{\numberline {6}Data Dictionary}{7}{section.6}%
+\contentsline {section}{\numberline {7}Naming Conventions}{7}{section.7}%
+\contentsline {section}{\numberline {8}Conclusion}{7}{section.8}%
+\contentsline {section}{\numberline {9}Lessons learned and Alternatives Presented}{7}{section.9}%
