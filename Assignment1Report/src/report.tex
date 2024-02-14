@@ -1,0 +1,125 @@
+\documentclass[12pt]{article}
+
+\usepackage[]{amsmath}
+\usepackage[]{amsthm}
+\usepackage[]{amsfonts}
+\usepackage[]{amssymb}
+\usepackage{blindtext}
+\usepackage[a4paper, total={6in, 8in}]{geometry}
+\usepackage{graphicx}
+\usepackage{listings}
+\usepackage{color}
+\usepackage{array}
+
+\definecolor{dkgreen}{rgb}{0,0.6,0}
+\definecolor{gray}{rgb}{0.5,0.5,0.5}
+\definecolor{mauve}{rgb}{0.58,0,0.82}
+
+\pagenumbering{arabic}
+\let\cleardoublepage\clearpage
+
+
+%% parameters for code snippets, etc (to put a keywords and smaller snippets inline, use \texttt{} tag
+\lstset{frame=tb,
+  language=Java,
+  aboveskip=3mm,
+  belowskip=3mm,
+  showstringspaces=false,
+  columns=flexible,
+  basicstyle={\small\ttfamily},
+  numbers=left,
+  numberstyle=\small\color{black},
+  keywordstyle=\color{blue},
+  commentstyle=\color{dkgreen},
+  stringstyle=\color{mauve},
+  breaklines=true,
+  breakatwhitespace=true,
+  tabsize=4
+}
+
+%%title of document
+\title{Conceptual architecture analysis of OpenPilot}
+
+
+
+%%ADD NAME AND STUDENT NUMBER HERE
+\author{
+    \textbf{Jerry Wu} (217545898), \textbf{Connor Francis McGrath} (216869133),\\
+    \textbf{Joseph Spagnuolo} (216279184), \textbf{Tarun Bhardwaj} (217889742),\\
+    \textbf{Krishna Raju} (218199497), \textbf{Irsa Nasir} (218069567),\\
+    \textbf{Aish Singh} (217521147), \textbf{Stanley Ihesiulo} (216985236)
+}
+
+
+
+%%due date
+\date{Due Feb 14 2024}
+
+
+
+\begin{document}
+\maketitle
+\tableofcontents
+
+
+\newpage
+
+
+\section{Abstract}
+This paper will outline the overarching architecture of the open source system "OpenPilot" by comma.ai.
+
+\section{Introduction and Overview}
+
+\subsection{The big picture}
+Designed by comma.ai with the intent of increasing road safety, openpilot is an Advanced Driver Assistance System. It offers many driving safety features such as: Adaptive Cruise Control, Automatic Lane Centering, the ability to observe the attentiveness of the driver, and pathfinding capabilities that allow for automated steering and breaking for other vehicles on the road [3].
+
+The purpose of this report is to provide an analysis of the conceptual architecture of the openpilot. As will be discussed later, openpilot is the amalgamation of many different architecture systems, who in turn are composed of many different subsystems that take raw data from peripherals and hardware attached to the car, process the data, sends their output to a neural network which outputs commands that the car can execute [5].
+
+In order for the car to actually be controlled [1]
+
+
+\subsection{Components and architecture}
+This section will outline the various architectures and components involved in making the system work. They are:
+
+\begin{itemize}
+
+    \item \textbf{Conceptual architectures}
+    \begin{itemize}
+        \item The software utilizes an implicit invocation architecture which can be found in their use of cereal; comma.ai's own open source library for robotic message communication. %Implicit invocation architecture (found in their use of cereal; an open source library for robotic message communication)
+        \item Implicit invocation is also used in the boardd class which acts as the "publisher". The class manages messages sent/received to/from the panda module.
+         \item A pipe and filter architecture is exhibited when data from sensors and actuators in the car itself are fed through openpilot's logic and processed by the neural networks working behind the scenes. %Pipe & filter (data is fed into the system via the sensors and processed by neural networks) 
+        \item This may be unrelated, but the open source codebase is stored on a GitHub repository, so this could also be a repository style architecture for when developers are working on the project.
+    \end{itemize}
+
+    \item \textbf{Components}
+    \begin{itemize}
+        \item Sensors + actuators (boardd, camerad, sensord, etc.)
+        \item Neural network runners (modeId, dmonitoringmodeId, dmonitoringd, etc.)
+        \item Localization + calibration (locationd, calibrationd, etc.)
+        \item Controls (radard, planners, controlsd, etc.
+        \item System logging/misc (manager, thermald, etc.)
+        \item Hardware components (panda module)
+    \end{itemize}
+\end{itemize}
+
+\subsection{How do these components interact?}
+
+\section{Diagrams}
+
+\section{External Interfaces}
+
+\section{Use Cases}
+
+\section{Data Dictionary}
+
+\section{Naming Conventions}
+
+\section{Conclusion}
+
+\section{Lessons learned and Alternatives Presented}
+
+\section{References}
+
+
+
+\end{document}
