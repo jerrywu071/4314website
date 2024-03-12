@@ -12,4 +12,10 @@
 
 [Report](https://github.com/jerrywu071/4314website/blob/main/Assignment1Report/report.pdf)<br/>
 
-[openpilot architecture blog](https://blog.comma.ai/openpilot-in-2021/)
+[openpilot architecture blog](https://blog.comma.ai/openpilot-in-2021/)<br/><br/><br/>
+
+*Assignment 2*
+
+[Slides] <br/>
+[Report] <br/>
+
