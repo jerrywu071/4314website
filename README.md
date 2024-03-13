@@ -16,6 +16,6 @@
 
 *Assignment 2*
 
-[Slides] <br/>
+[Slides](https://docs.google.com/presentation/d/19STPAHv-Y_OeXgPuccnXLGa-PCJoT05QzUAIgsVeCAs/edit?usp=sharing) <br/>
 [Report] <br/>
 
