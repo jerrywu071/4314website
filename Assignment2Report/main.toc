@@ -1,0 +1,18 @@
+\contentsline {section}{\numberline {1}Introduction and Overview}{2}{section.1}%
+\contentsline {section}{\numberline {2}Concrete Architecture of Openpilot}{2}{section.2}%
+\contentsline {subsection}{\numberline {2.1}File Architecture of Openpilot}{2}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Architectural Style of Openpilot}{4}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}Design Patterns}{6}{subsection.2.3}%
+\contentsline {subsection}{\numberline {2.4}Description of Top-Level Subsystems and Interactions}{6}{subsection.2.4}%
+\contentsline {subsection}{\numberline {2.5}Architecutral Style of Localization/Calibration}{7}{subsection.2.5}%
+\contentsline {subsection}{\numberline {2.6}Derivation Process of OpenPilot Architecture and Localization/Calibration Architecture}{10}{subsection.2.6}%
+\contentsline {subsection}{\numberline {2.7}Concurrency In The Localization/Calibration Subsystem}{11}{subsection.2.7}%
+\contentsline {subsection}{\numberline {2.8}Team Issues in Localization/Calibration subsystem}{11}{subsection.2.8}%
+\contentsline {section}{\numberline {3}Diagrams}{12}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Use case}{12}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Sequence diagrams}{12}{subsection.3.2}%
+\contentsline {section}{\numberline {4}Discussions of The Limitations of Reported Findings}{13}{section.4}%
+\contentsline {section}{\numberline {5}Data Dictionary}{13}{section.5}%
+\contentsline {section}{\numberline {6}Naming Conventions}{14}{section.6}%
+\contentsline {section}{\numberline {7}Lessons Learned}{14}{section.7}%
+\contentsline {section}{\numberline {8}Conclusion}{15}{section.8}%
