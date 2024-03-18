@@ -17,5 +17,5 @@
 *Assignment 2*
 
 [Slides](https://docs.google.com/presentation/d/19STPAHv-Y_OeXgPuccnXLGa-PCJoT05QzUAIgsVeCAs/edit?usp=sharing) <br/>
-[Report]() <br/>
+[Report](https://github.com/jerrywu071/4314website/blob/main/Assignment2Report/main.pdf) <br/>
 
