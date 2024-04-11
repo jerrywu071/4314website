@@ -22,4 +22,4 @@
 *Assignment 3*
 
 [Slides](https://docs.google.com/presentation/d/1pbh4wAjR5YuoP3K4Yr5eAQ4UQhyYb31N_rXiQgHQjfA/edit?usp=sharing)<br/>
-[Report]()
+[Report](https://github.com/jerrywu071/4314website/blob/main/Assignment3Report/4314_assignment_3.pdf)
